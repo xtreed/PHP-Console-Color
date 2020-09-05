@@ -19,5 +19,8 @@
         "jakub-onderka/php-var-dump-check": "0.*",
         "squizlabs/php_codesniffer": "1.*",
         "jakub-onderka/php-code-style": "1.0"
+    },
+    "replace": {
+        "jakub-onderka/php-console-color": "~0.2"
     }
 }
